@@ -1,3 +1,5 @@
+Pull requests are how you merge branches on Github
+
 Git hub is a hub of .git/directories
 
 you can push and pull commits to and from .git/directories
