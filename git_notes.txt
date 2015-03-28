@@ -1,3 +1,12 @@
+Pull requests are how you merge branches on Github
+
+Git hub is a hub of .git/directories
+
+you can push and pull commits to and from .git/directories
+
+you can also clone .git / directories to new computers or new paths
+
+
 # master branch is a label that git creates for us when we initialize a repositiory
 
 HEAD is a another label that git creates for us when we create our first commit
