@@ -1,6 +1,5 @@
-//hidden folder where the staging area and commits live.git/
-
-
+//hidden folder where the staging area and commits live
+.git/
 # This is a cool way to create a text version of a command
 history < moving_around.txt
 # This is a way to suppliment and add more to a text file
@@ -25,6 +24,7 @@ history |more
 #This is the history of all the commands that have ever been used. It is in reverse chronological order
 history
 
+live.git/
 
 
 #Uses sublime text2
